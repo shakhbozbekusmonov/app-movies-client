@@ -23,7 +23,7 @@ export default function SearchAppBar() {
                         component="div"
                         sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' }, marginLeft: 100 }}
                     >
-                        WE HAVE THE BEST MOVIES
+                        BEST MOVIES
                     </Typography>
                 </Toolbar>
             </AppBar>
